@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <rect width="400" height="600" fill="#5c4a2e"/>
+  <rect x="0" y="120" width="400" height="4" fill="#f2ecdf" opacity="0.85"/>
+     <rect x="0" y="490" width="400" height="2" fill="#f2ecdf" opacity="0.5"/>
+  <g fill="#f2ecdf" font-family="Georgia, 'Times New Roman', serif">
+    <text x="48" y="210" font-size="36">Contratos</text>
+    <text x="48" y="256" font-size="36">Inteligentes</text>
+    <text x="48" y="302" font-size="36">com Solidity</text>
+    <text x="48" y="460" font-size="17" font-style="italic">A. C. Beltrão</text>
+    <text x="48" y="544" font-size="13" letter-spacing="4">EDITORA COMPIA</text>
+  </g>
+</svg>

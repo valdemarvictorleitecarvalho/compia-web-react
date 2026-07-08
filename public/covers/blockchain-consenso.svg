@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <rect width="400" height="600" fill="#31424e"/>
+  <rect x="20" y="20" width="360" height="560" fill="none" stroke="#ece6da" stroke-width="1.5" opacity="0.85"/>
+     <rect x="28" y="28" width="344" height="544" fill="none" stroke="#ece6da" stroke-width="0.5" opacity="0.5"/>
+  <g fill="#ece6da" font-family="Georgia, 'Times New Roman', serif">
+    <text x="48" y="210" font-size="36">Blockchain</text>
+    <text x="48" y="256" font-size="36">Estruturas e</text>
+    <text x="48" y="302" font-size="36">Consenso</text>
+    <text x="48" y="460" font-size="17" font-style="italic">M. T. Sales</text>
+    <text x="48" y="544" font-size="13" letter-spacing="4">EDITORA COMPIA</text>
+  </g>
+</svg>
