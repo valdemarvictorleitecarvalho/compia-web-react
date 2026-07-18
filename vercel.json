@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/((?!downloads/|covers/|qrcode).*)", "destination": "/index.html" }]
+}
